@@ -1,6 +1,6 @@
 # PHAS0077- Emotion Classification of Speech Audio
 
-Environment:Python 3.6 or Conda 
+Environment:Python 3.6 or Conda 4.10
 
 # Dependencies
 matplotlib for plot  
@@ -9,7 +9,11 @@ sklearn.model_selection for GridSearchCV, cross_val_score, train_test_split
 
 # Datasets
 Sample_entertaining.csv for entertaining emotion classification  
-Sample_discussion.csv for discussion emotion classification
+Features extracted from YAMNeT network frame  
+
+
+Sample_discussion.csv for discussion emotion classification  
+Features extracted from eGeMAPS
 
 # Classification model
 Classifier_entertaining.ipynb  
