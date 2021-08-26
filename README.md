@@ -5,7 +5,7 @@ This notebook includes code for reading in the sample data, hyperparameter tunin
 
 
 # Dependencies
-sklearn.tree for import DecisionTreeClassifier, DecisionTreeClassifier
+sklearn.tree for import DecisionTreeClassifier, DecisionTreeClassifier  
 sklearn.metrics for confusion_matrix, classification_report, accuracy_score, auc  
 sklearn.model_selection for GridSearchCV, cross_val_score, train_test_split
 matplotlib for plot 
